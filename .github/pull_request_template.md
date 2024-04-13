@@ -1,9 +1,16 @@
-    ## Describe your changes
+## Describe your changes
 
-    ## Issue ticket number and link
+Please include a summary of the change and which issue is fixed. 
+List any dependencies that are required for this change.
 
-    ## Checklist before requesting a review
-    - [ ] I have performed a self-review of my code
-    - [ ] If it is a core feature, I have added thorough tests
-    - [ ] Do we need to implement analytics?
-    - [ ] Will this be part of a product update? If yes, please write one phrase about this update
+## Issue ticket number and link
+
+Fixes # (issue)
+
+## Checklist before requesting a review:
+
+- [ ] I have performed a self-review of my own code
+- [ ] If it is a core feature, I have added thorough tests
+- [ ] Do we need to implement analytics?
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update
+
